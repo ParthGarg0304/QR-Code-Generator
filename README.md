@@ -7,8 +7,11 @@ In today's fast-paced digital landscape, the need for efficient information exch
 Software Requirements:
 
 •	Python: You'll need Python installed on your system to run the application.
+
 •	Tkinter: Tkinter is included with Python and provides the GUI framework for your application.
+
 •	SQLite: SQLite is a lightweight and built-in database that can be used for storing expense data.
+
 •	QR Code Library: You can use libraries like qrcode to generate QR codes and Pillow (PIL) to handle image manipulation.
 
 
